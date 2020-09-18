@@ -40,7 +40,6 @@ function agregarStringInvertida() {
   String.prototype.reverse = function(){
    return this.split('').reverse().join('');
   }
- 
 }
 
 // No modificar nada debajo de esta línea
